@@ -53,9 +53,9 @@ It provides a centralized system for faculty members to create evaluation tasks,
 ---
 
 ## 🛠️ Technology Stack (Suggested)
-- **Frontend:** React.js / Angular / Vue.js  
-- **Backend:** Django / Flask (Python) OR Node.js (JavaScript)  
-- **Database:** MySQL / PostgreSQL / MongoDB  
+- **Frontend:** React.js / Vue.js  
+- **Backend:**  Node.js (JavaScript)  
+- **Database:** MongoDB  
 - **Authentication:** Email-based (NITC domain validation)  
 - **File Handling:** CSV & Excel support (Pandas / SheetJS)  
 
@@ -63,9 +63,10 @@ It provides a centralized system for faculty members to create evaluation tasks,
 
 ## 🚀 Installation & Setup
 ### Prerequisites
-- Python 3.x / Node.js (based on chosen backend)
-- MySQL / PostgreSQL / MongoDB
+- MongoDB
 - Git
+- React
+- 
 
 ### Steps
 ```bash
